@@ -1,5 +1,6 @@
 # VBA-challenge
 This is the repository that holds my Module 2 VBA-challenge
+
 Module Overview: Create a script that loops through 4 quarters' worth of data and output: a ticker, quarterly change from open-close of quarter, % change from open-close of quarter, and total stock volume. Moreover, we had to output the greastest % increase, greatest % decrease, and greatest total volume.
 
 Please note that I requested/received help from 2 people through Slack's AskBCS Lerning Assistant and used the following resources:
